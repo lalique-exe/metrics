@@ -1,5 +1,5 @@
 //Imports
-import faker from "@faker-js/faker"
+import {faker} from "@faker-js/faker"
 import fs from "fs/promises"
 import axios from "axios"
 import paths from "path"
